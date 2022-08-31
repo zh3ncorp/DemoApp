@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="light_on">Вкл</string>
+    <string name="light_off">Выкл</string>
+    <string name="next_act_btn">Свет</string>
+    <string name="logo">Demo App</string>
+    <string name="kitchen">Кухня: </string>
+    <string name="bathroom">Ванная: </string>
+    <string name="balcony">Балкон: </string>
+</resources>
